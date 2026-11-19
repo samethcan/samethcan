@@ -1,6 +1,6 @@
 # Samet Hüseyin Can
 
-[![ORCID](https://img.shields.io/badge/ORCID-0009-0007-5050-8346-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0009-0007-5050-8346)
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0007--5050--8346-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0009-0007-5050-8346)
 
 ## Projeler
 
