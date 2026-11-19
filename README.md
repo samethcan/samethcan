@@ -1,5 +1,7 @@
 # Samet Hüseyin Can
 
+[![ORCID](https://img.shields.io/badge/ORCID-0009-0007-5050-8346-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0009-0007-5050-8346)
+
 ## Projeler
 
 - [netcad-araclari](https://github.com/samethcan/netcad-araclari) — Netcad kullanan harita büroları, kurumlar ve tüm harita mühendisi ve teknikerleri için küçük, bağımsız araçlar: NCZ okuyucu, aplikasyon alan hesabı, 3B pafta indeksi, kadastro ve geodezi yardımcıları.
